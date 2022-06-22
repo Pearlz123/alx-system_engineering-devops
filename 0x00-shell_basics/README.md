@@ -1,1 +1,1 @@
-I want to start coding for real
+print aboslute working directory
