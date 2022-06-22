@@ -1,1 +1,1 @@
-print aboslute working directory
+pwd
